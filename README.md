@@ -21,4 +21,8 @@
   <a href = "https://steamcommunity.com/profiles/76561198128352755/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"target="_blank"></a>
   </div>
 
-  ![tumblr_lyiascdEna1ro1rkmo1_500](https://user-images.githubusercontent.com/86939796/136078778-9648d314-08c4-4eae-bba1-ac72a32057dc.gif)
+  
+  
+  
+  
+![goku12 jpg](https://user-images.githubusercontent.com/86939796/136083841-5a8f6615-0a5a-4295-967a-ed100518e189.png)
