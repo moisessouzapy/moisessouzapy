@@ -1,9 +1,8 @@
-<h1> Olá!!! Eu sou o Moisés Souza😎 </h1>
+<h1> Olá!!! Eu sou o Moisés Souza😎 </h1><img align="center" src="https://profile-counter.glitch.me/{moisessouzapy}/count.svg">
 
 <div align="center">
   <a href="https://github.com/moisessouzapy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moisessouzapy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="center" src="https://profile-counter.glitch.me/{moisessouzapy}/count.svg">
 </div>
  
   <div style="display: inline_block"><br>
