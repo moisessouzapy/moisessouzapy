@@ -1,12 +1,14 @@
 <h1> Olá!!! Eu sou o Moisés Souza😎 </h1>
 
  <div align="space-between" style="display: flex; justify-content: space-between">       
-        <img align="center"
+       <div> <img align="center"
           src="https://profile-counter.glitch.me/{moisessouzapy}/count.svg"
         />
-        <img align="center"
+ </div>
+<div> <img align="center"
           src="https://profile-counter.glitch.me/{moisessouzapy}/count.svg"
         />
+ </div>
     </div>
 
 
