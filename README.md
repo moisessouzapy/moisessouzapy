@@ -1,6 +1,17 @@
 <h1> Olá!!! Eu sou o Moisés Souza😎 </h1>
 <h4>Visitors Count</h4>
-<p style="justify-content:space-between"><img align="center" src="https://profile-counter.glitch.me/{moisessouzapy}/count.svg"><img align="center" src="https://profile-counter.glitch.me/{moisessouzapy}/count.svg"></p>
+<div style="justify-content: space-between">
+      <p>
+        <img
+          src="https://profile-counter.glitch.me/{moisessouzapy}/count.svg"
+        />
+      </p>
+      <p>
+        <img
+          src="https://profile-counter.glitch.me/{moisessouzapy}/count.svg"
+        />
+      </p>
+    </div>
 
 
 <div align="center">
