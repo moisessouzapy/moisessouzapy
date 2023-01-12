@@ -1,5 +1,8 @@
 <h1> Olá!!! Eu sou o Moisés Souza😎 </h1>
-<div><p style="color: darkgreen;" >Visitors Count</p> <img src="https://profile-counter.glitch.me/{moisessouzapy}/count.svg"/></div>
+<div>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moisessouzapy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <p style="color: darkgreen;" >Visitors Count</p> <img src="https://profile-counter.glitch.me/{moisessouzapy}/count.svg"/>
+</div>
  
  
 
